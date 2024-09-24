@@ -4,7 +4,7 @@ This Alfred workflow lists your public SSH keys so you can quickly copy one to y
 
 ![Workflow screenshot](resources/screenshot.png)
 
-Custom theme using [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/).
+Screenshot using the dark variant of my [custom theme](https://github.com/mattstein/alfred-theme).
 
 ## Installation
 
