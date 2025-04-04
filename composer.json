@@ -1,6 +1,18 @@
 {
-    "require": {
-        "php": "^8.0",
-        "joetannenbaum/alfred-workflow": "^1.1"
+  "name": "mattstein/alfred-copy-ssh-workflow",
+  "type": "project",
+  "description": "Copy a public SSH key to the clipboard.",
+  "keywords": [
+    "alfred"
+  ],
+  "require": {
+    "php": "^8.0",
+    "joetannenbaum/alfred-workflow": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mattstein/alfred-workflow"
     }
+  ]
 }
